@@ -1,4 +1,4 @@
 gitTutorial
 ===========
 
-A test repository for the git tutorial
+A test2 repository for the git tutorial
